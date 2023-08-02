@@ -19,21 +19,21 @@ anderes Verfahren überlegt: Wann immer er einen
 neuen Auftrag beginnt, wählt er den kürzesten
 unter den bereits vorliegenden Aufträgen.
 
-1) Unterstütze Marc und schreibe ein Programm,
-das die beiden Verfahren simuliert. Dazu bekommt
-es eine Liste von Aufträgen. Für jeden Auftrag sind
-Eingangszeitpunkt und Bearbeitungsdauern in
-Minuten angegeben. Für die beiden Verfahren soll
-das Programm die durchschnittliche und die maximale
-Wartezeit der Aufträge (in Minuten) berechnen. Die
-Wartezeit eines Auftrags ist die Differenz zwischen
-dem Zeitpunkt seiner Fertigstellung und seinem
-Eingangszeitpunkt.
-2) Begründe, warum auch bei dem zweiten
-Verfahren vermutlich nicht alle Kunden zufrieden
-sein werden.
-3) Gibt es Verfahren, die du für besser geeignet
-hältst? Hierzu kannst du dir auch weitere Kennzahlen als nur die durchschnittliche und maximale
-Wartezeit der Aufträge überlegen. Verändere dein
-Programm entsprechend und beschreibe, inwiefern
-dein Verfahren deine Erwartungen erfüllt.
+1) > Unterstütze Marc und schreibe ein Programm,
+> das die beiden Verfahren simuliert. Dazu bekommt
+> es eine Liste von Aufträgen. Für jeden Auftrag sind
+> Eingangszeitpunkt und Bearbeitungsdauern in
+> Minuten angegeben. Für die beiden Verfahren soll
+> das Programm die durchschnittliche und die maximale
+> Wartezeit der Aufträge (in Minuten) berechnen. Die
+> Wartezeit eines Auftrags ist die Differenz zwischen
+> dem Zeitpunkt seiner Fertigstellung und seinem
+> Eingangszeitpunkt.
+2) > Begründe, warum auch bei dem zweiten
+> Verfahren vermutlich nicht alle Kunden zufrieden
+> sein werden.
+3) > Gibt es Verfahren, die du für besser geeignet
+> hältst? Hierzu kannst du dir auch weitere Kennzahlen als nur die durchschnittliche und maximale
+> Wartezeit der Aufträge überlegen. Verändere dein
+> Programm entsprechend und beschreibe, inwiefern
+> dein Verfahren deine Erwartungen erfüllt.
